@@ -77,6 +77,9 @@ a {
 #footer {
     height: 50px;
     background: #f2f2fe;
-    align-items: center;
+    display: grid;
+    place-items: center;
+    position: absolute;
     bottom: 0px;
+    width: 100%;
 }
